@@ -19,6 +19,7 @@
     "express": "^4.22.1",
     "express-async-handler": "^1.2.0",
     "ioredis": "^5.9.2",
+    "nanoid": "^5.1.6",
     "redis": "^5.10.0"
   },
   "devDependencies": {
